@@ -1,0 +1,44 @@
+{
+  "theme": {
+    "primaryColor": "#3A85FF",
+    "backgroundColor": "#F9FAFB",
+    "fontFamily": "Inter, sans-serif"
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "durationInFrames": 300,
+      "text1": "Erasmus hayalin var...",
+      "text2": "Gramerin harika.",
+      "text3": "Ama iş sözlü sınava gelince?",
+      "alertText": "Sınava 30 Gün Kaldı!"
+    },
+    {
+      "id": "problem",
+      "durationInFrames": 240,
+      "text": "İngilizce ve Almanca arasında gidip gelirken kelimeler boğazında mı düğümleniyor?"
+    },
+    {
+      "id": "solution",
+      "durationInFrames": 360,
+      "text1": "Konuşarak Öğren ile tanış.",
+      "text2": "Her gün, ana dili İngilizce olan eğitmenlerle, kendi seviyende konuşma pratiği yap."
+    },
+    {
+      "id": "data_proof",
+      "durationInFrames": 240,
+      "stats": {
+        "lessonsCompleted": 45,
+        "fluencyScore": "%92",
+        "label": "Gelişimini anlık takip et"
+      }
+    },
+    {
+      "id": "cta",
+      "durationInFrames": 300,
+      "text": "Avrupa biletin hazır mı?",
+      "buttonText": "Hemen Başla",
+      "logoUrl": "konusarak_ogren_logo.png"
+    }
+  ]
+}
